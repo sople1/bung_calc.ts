@@ -1,3 +1,10 @@
+# bung_calc.ts
+
+A simple point calculator utility for User playable Game (Marble on Stream, etc...) with Twitch streamer [<del>@bungeo</del>@ssogali](https://twitch.tv/ssogali).
+
+Written by Typescript
+
+# build
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+"# bung_calc.ts" 
