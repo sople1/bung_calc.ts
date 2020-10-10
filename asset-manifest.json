@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bung_calc.ts/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bung_calc.ts/static/js/main.06f2dd59.chunk.js",
+    "main.js.map": "/bung_calc.ts/static/js/main.06f2dd59.chunk.js.map",
+    "runtime-main.js": "/bung_calc.ts/static/js/runtime-main.9d5246c2.js",
+    "runtime-main.js.map": "/bung_calc.ts/static/js/runtime-main.9d5246c2.js.map",
+    "static/js/2.410ce50f.chunk.js": "/bung_calc.ts/static/js/2.410ce50f.chunk.js",
+    "static/js/2.410ce50f.chunk.js.map": "/bung_calc.ts/static/js/2.410ce50f.chunk.js.map",
+    "index.html": "/bung_calc.ts/index.html",
+    "precache-manifest.f3c178ca734da8d6fbbf50f27a88c6af.js": "/bung_calc.ts/precache-manifest.f3c178ca734da8d6fbbf50f27a88c6af.js",
+    "service-worker.js": "/bung_calc.ts/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bung_calc.ts/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.410ce50f.chunk.js.LICENSE.txt": "/bung_calc.ts/static/js/2.410ce50f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bung_calc.ts/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5246c2.js",
+    "static/js/2.410ce50f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.06f2dd59.chunk.js"
+  ]
+}
