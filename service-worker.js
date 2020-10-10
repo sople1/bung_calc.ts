@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bung_calc.ts/precache-manifest.f3c178ca734da8d6fbbf50f27a88c6af.js"
+  "/bung_calc.ts/precache-manifest.e23b7a607b8358526a5a7fc79ed0c358.js"
 );
 
 self.addEventListener('message', (event) => {
